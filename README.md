@@ -1,6 +1,5 @@
 # randstr
 
-/*
  * Cryptographic Random String Generator
  * 
  * Description: Generates cryptographically secure random strings with high Shannon entropy
@@ -21,4 +20,3 @@
  * 
  * Usage: ./randstr <length> [mode]
  *   mode: full (default), alnum, num
- */
